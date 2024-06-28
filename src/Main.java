@@ -1,5 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        // กำหนดให้เล่น N รอบ
+        MGame mGame = new MGame(10);
+
+        mGame.playGame();
+
     }
 }
