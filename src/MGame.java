@@ -1,3 +1,7 @@
+/**
+ * @author  6510450569 Panithan Champahom
+ */
+
 public class MGame {
     private final int N;
     private int roundCnt;

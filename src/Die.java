@@ -1,3 +1,6 @@
+/**
+ * @author  6510450569 Panithan Champahom
+ */
 
 public class Die {
     private int faceValue;

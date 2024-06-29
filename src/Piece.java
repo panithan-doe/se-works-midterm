@@ -1,3 +1,7 @@
+/**
+ * @author  6510450569 Panithan Champahom
+ */
+
 public class Piece {
     private Square location;
     public Piece() {
