@@ -25,7 +25,7 @@ public class MGame {
 
     public void playGame() {
         while (roundCnt < N) {
-            System.out.println("---------- round " + roundCnt + " ----------\n");
+            System.out.println("---------- round " + (roundCnt+1) + " ----------\n");
             playRound();
             roundCnt++;
         }
