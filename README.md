@@ -3,3 +3,5 @@
   `src/monopoly`
 - gumball
   `src/gumball`
+- design principles
+  `src/designPrinc`
