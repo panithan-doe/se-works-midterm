@@ -1,7 +1,7 @@
 # SE Java works
-- monopoly game
+- work-01 : monopoly game
   `src/monopoly`
-- gumball
+- work-02 : gumball
   `src/gumball`
-- design principles
+- work-03 : design principles
   `src/designPrinc`
