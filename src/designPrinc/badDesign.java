@@ -1,3 +1,7 @@
+/**
+ * @author  6510450569 Panithan Champahom
+ */
+
 package designPrinc;
 
 import java.util.Arrays;
