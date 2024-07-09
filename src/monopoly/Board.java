@@ -1,3 +1,5 @@
+package monopoly;
+
 /**
  * @author  6510450569 Panithan Champahom
  */
@@ -6,10 +8,10 @@ public class Board {
     private Square[] squares;
 
     public Board() {
-        // สร้าง Board ที่มี Square 40 อัน (มี 40 ช่อง)
+        // สร้าง monopoly.Board ที่มี monopoly.Square 40 อัน (มี 40 ช่อง)
         this.squares = new Square[40];
         for (int i = 0; i < 40; i++) {
-            squares[i] = new Square("Square "+ (i + 1));
+            squares[i] = new Square("monopoly.Square "+ (i + 1));
         }
     }
 
@@ -29,7 +31,7 @@ public class Board {
         }
 
         for (Square square : squares) {
-            if (square.getName().equals("Square " + (newPosition + 1))) return square;
+            if (square.getName().equals("monopoly.Square " + (newPosition + 1))) return square;
         }
 
         return null;

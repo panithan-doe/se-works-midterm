@@ -1,3 +1,5 @@
+package monopoly;
+
 /**
  * @author  6510450569 Panithan Champahom
  */
@@ -11,6 +13,7 @@ public class MGame {
 
 
     // Constructor : N คือจำนวนรอบในการเล่นเกมนนี้
+    // สามารถ implement ให้ร constructor รับ object monopoly.Die กับ monopoly.Board ได้ (ทำให้ไม่ต้องประกาศใหม่ใน monopoly.Player)
     public MGame(int N) {
         this.N = N;
         // กำหนดรอบเริ่มต้นเป็นรอบที่ 1 (roundCnt = 0)
@@ -19,10 +22,10 @@ public class MGame {
         dice[0] = new Die();
         dice[1] = new Die();
 
-        // จำนวน Player มากสุดคือ 8 คน (Player 1-8)
+        // จำนวน monopoly.Player มากสุดคือ 8 คน (monopoly.Player 1-8)
         this.players = new Player[8];
         for (int i = 0; i < players.length; i++) {
-            players[i] = new Player("Player " + (i+1));
+            players[i] = new Player("monopoly.Player " + (i+1));
         }
         this.board = new Board();
     }

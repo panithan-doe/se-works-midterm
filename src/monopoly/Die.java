@@ -1,3 +1,5 @@
+package monopoly;
+
 /**
  * @author  6510450569 Panithan Champahom
  */

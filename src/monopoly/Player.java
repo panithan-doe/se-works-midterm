@@ -1,3 +1,5 @@
+package monopoly;
+
 /**
  * @author  6510450569 Panithan Champahom
  */
@@ -28,7 +30,7 @@ public class Player {
 
         System.out.println("Total Value: " + fvTot);
 
-        // Move Piece
+        // Move monopoly.Piece
         Square oldLoc = piece.getLocation();
         Square newLoc = board.getSquare(oldLoc, fvTot);
 
