@@ -1,2 +1,5 @@
-# monopoly-game-se-java
-this work is using Java
+# SE Java works
+- monopoly game
+  `src/monopoly`
+- gumball
+  `src/gumball`
