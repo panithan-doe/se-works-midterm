@@ -5,3 +5,6 @@
   `src/gumball`
 - work-03 : design principles
   `src/designPrinc`
+
+- work-05 : gumball-2
+  `src/gumball_new`
