@@ -2,7 +2,7 @@
  * @author  6510450569 Panithan Champahom
  */
 
-package designPrinc;
+package hw3_designPrinc;
 
 public class User {
     private String name;

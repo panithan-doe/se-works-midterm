@@ -4,4 +4,4 @@
 - work-02 : gumball
   `src/gumball`
 - work-03 : design principles
-  `src/designPrinc`
+  `src/hw3_designPrinc`
