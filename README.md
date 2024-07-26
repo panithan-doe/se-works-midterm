@@ -1,9 +1,11 @@
 # SE Java works
-- work-01 : monopoly game
+- HW 1 : monopoly game (แปลง UML diagram เป็นโค้ด)
   `src/monopoly`
-- work-02 : gumball
+- HW 2 : gumball (แปลง state machine diagram เป็นโค้ด)
   `src/gumball`
-- work-03 : design principles
+- HW 3 : design principles (Design Principles)
   `src/hw3_designPrinc`
-- work-05 : gumball-2
+- HW 5 : gumball-2 (Design Pattern 2 (State Pattern))
   `src/gumball_new`
+- HW 6 : quack 🦆 (Design Pattern 3 (Duck))
+  `src/hw6_quack`
