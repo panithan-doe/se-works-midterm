@@ -1,4 +1,4 @@
-package gumball_new;
+package hw5_gumball_with_pattern;
 /**
  * @author  6510450569 Panithan Champahom
  */

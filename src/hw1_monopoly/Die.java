@@ -1,4 +1,4 @@
-package monopoly;
+package hw1_monopoly;
 
 /**
  * @author  6510450569 Panithan Champahom

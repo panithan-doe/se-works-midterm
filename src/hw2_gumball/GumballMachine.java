@@ -2,7 +2,7 @@
  * @author  6510450569 Panithan Champahom
  */
 
-package gumball;
+package hw2_gumball;
 
 public class GumballMachine {
 
