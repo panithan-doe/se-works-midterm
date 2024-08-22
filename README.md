@@ -1,4 +1,4 @@
-# SE Java works
+# SE Java works midterm
 - HW 1 : monopoly game (แปลง UML diagram เป็นโค้ด)
   `src/hw1_monopoly`
 - HW 2 : gumball (แปลง state machine diagram เป็นโค้ด)
